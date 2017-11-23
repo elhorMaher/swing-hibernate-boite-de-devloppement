@@ -3,8 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.isetjb.projet13;
+package com.isetjb.proget;
 
+import com.isetjb.etiquette.Etiquette;
+import com.isetjb.Client.Client;
 import java.util.ArrayList;
 import java.util.List;
 import javax.persistence.Column;

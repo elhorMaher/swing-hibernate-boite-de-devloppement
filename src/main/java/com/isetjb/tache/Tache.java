@@ -3,8 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.isetjb.projet13;
+package com.isetjb.tache;
 
+import com.isetjb.proget.Projet;
+import com.isetjb.developpeur.Developpeur;
 import java.util.Date;
 import javax.persistence.Column;
 import javax.persistence.Entity;

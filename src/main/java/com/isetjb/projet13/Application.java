@@ -5,6 +5,11 @@
  */
 package com.isetjb.projet13;
 
+import com.isetjb.tache.Tache;
+import com.isetjb.proget.Projet;
+import com.isetjb.etiquette.Etiquette;
+import com.isetjb.developpeur.Developpeur;
+import com.isetjb.Client.Client;
 import java.util.Date;
 import java.util.Iterator;
 import java.util.List;

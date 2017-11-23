@@ -3,8 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.isetjb.projet13;
+package com.isetjb.etiquette;
 
+import com.isetjb.proget.Projet;
 import java.util.ArrayList;
 import java.util.List;
 import javax.persistence.CascadeType;
